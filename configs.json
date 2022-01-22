@@ -28,6 +28,14 @@
 			"should_read": true
 		},
 		{
+			"url": "https://github.com/KillerxG/CCG-Cdbs",
+			"repo_name": "CCG Brasil Expansions",
+			"repo_path": "./expansions",
+			"has_core": true,
+			"should_update": true,
+			"should_read": true
+		},
+		{
 			"url": "https://github.com/KillerxG/CCG-banilists",
 			"repo_name": "CCG Brasil lflists",
 			"repo_path": "./repositories/lflists",
