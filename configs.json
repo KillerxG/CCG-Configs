@@ -29,7 +29,7 @@
 		{
 			"url": "https://github.com/KillerxG/CCG-banilists",
 			"repo_name": "CCG Brasil lflists",
-			"repo_path": "./lflists",
+			"repo_path": "./repositories/lflists",
 			"has_core": true,
 			"should_update": true,
 			"should_read": true
