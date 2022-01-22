@@ -20,14 +20,6 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/ProjectIgnis/LFLists",
-			"repo_name": "Forbidden & Limited Card Lists",
-			"repo_path": "./repositories/lflists",
-			"lflist_path": ".",
-			"should_update": false,
-			"should_read": false
-		},
-		{
 			"url": "https://github.com/KillerxG/CCG-Cdbs",
 			"repo_name": "CCG Brasil Expansions",
 			"repo_path": "./expansions",
