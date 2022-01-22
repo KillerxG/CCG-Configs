@@ -12,25 +12,16 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/KillerxG/CCG-Configs",
-			"repo_name": "CCG Brasil Config",
-			"repo_path": "./config",
-			"has_core": true,
+			"url": "https://github.com/KillerxG/CCG-Cdbs",
+			"repo_name": "CCG Brasil Expansions",
+			"repo_path": "./expansions",
 			"should_update": true,
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/ProjectIgnis/LFLists",
-			"repo_name": "Forbidden & Limited Card Lists",
-			"repo_path": "./repositories/lflists",
-			"lflist_path": ".",
-			"should_update": false,
-			"should_read": true
-		},
-		{
-			"url": "https://github.com/KillerxG/CCG-Cdbs",
-			"repo_name": "CCG Brasil Expansions",
-			"repo_path": "./expansions",
+			"url": "https://github.com/KillerxG/CCG-Configs",
+			"repo_name": "CCG Brasil Config",
+			"repo_path": "./config",
 			"has_core": true,
 			"should_update": true,
 			"should_read": true
@@ -54,13 +45,7 @@
 			"should_update": true,
 			"should_read": true
 		},
-		{
-			"url": "https://github.com/ProjectIgnis/Puzzles",
-			"repo_name": "Project Ignis puzzles",
-			"repo_path": "./puzzles/Canon collection",
-			"should_update": true,
-			"should_read": true
-		}
+		
 	],
 	"urls": [
 		{
