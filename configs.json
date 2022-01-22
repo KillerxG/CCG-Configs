@@ -25,7 +25,7 @@
 			"repo_path": "./repositories/lflists",
 			"lflist_path": ".",
 			"should_update": false,
-			"should_read": true
+			"should_read": false
 		},
 		{
 			"url": "https://github.com/KillerxG/CCG-Cdbs",
